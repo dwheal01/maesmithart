@@ -12,17 +12,3 @@
 	max-width: 100%;
 	filter: grayscale(100%);
 }
-.btn {
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
-  	-ms-transform: translate(-50%, -50%);
-  	background-color: none;
-  	color: white;
-  	font-size: 16px;
-  	
-  	border: none;
-  	
-  	text-align: center;
-}
