@@ -1,17 +1,18 @@
 div {
 	height: 100%;
 	margin: 0;
-	padding-top: 10%;
-	padding-bottom: 10%
-	max-height: 100vh;
-	max-width: 100%;
+	/*padding-top: 10%;
+	padding-bottom: 10%*/
+	margin-top: 10%;
+	margin-bottom: 10%	
 }
 img {
 	/*padding-top: 10%;
 	padding-bottom: 10%;*/
 	display: block;
 	margin: 0 auto;
-	
+	max-height: 100vh;
+	max-width: 100%;
 	-webkit-filter:grayscale(100%);
 	filter: grayscale(100%);
 	outline: 10px solid black;
@@ -20,5 +21,5 @@ img {
 img:hover{
 	-webkit-filter:grayscale(0%);
 	filter: grayscale(0%);
-	outline: 5px solid white;
+	outline: 10px solid white;
 }
