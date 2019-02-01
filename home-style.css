@@ -33,6 +33,6 @@ img:hover{
 	outline: 10px solid white;
 }
 
-div:hover{
+div:hover h1{
 	color: solid white;
 }
