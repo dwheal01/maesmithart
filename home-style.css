@@ -1,9 +1,10 @@
 div {
 	margin-top: 10vh;
-	
 	position:relative;
 	color: black;
 	display:block;
+	width: 75vh;
+	background-color: blue;
 	/*padding-top: 10%;
 	padding-bottom: 10%*/
 }
@@ -33,10 +34,9 @@ img:hover {
 	-webkit-filter:grayscale(0%);
 	filter: grayscale(0%);
 	outline: 10px solid white;
-	color:white;
+	
 }
 
 div:hover h1{
-	width: 75vh;
 	color: white;
 }
