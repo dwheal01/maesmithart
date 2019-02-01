@@ -29,13 +29,14 @@ h1 {
 	font-size: 20px;
 }
 
-img:hover h1{
+img:hover {
 	-webkit-filter:grayscale(0%);
 	filter: grayscale(0%);
 	outline: 10px solid white;
 	color:white;
 }
-/*
+
 div:hover h1{
+	width: 75vh;
 	color: white;
-}*/
+}
